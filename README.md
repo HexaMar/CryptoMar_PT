@@ -39,6 +39,7 @@ Forçar chaves privadas exige tempo e poder computacional. O autor criou este so
 2. Acesse a última versão: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 3. Baixe o arquivo `CryptoMarInstaller.exe`
 4. Siga as instruções do instalador.
+5. Atualização (24.05.2025): O uso de memória foi otimizado. Agora, um filtro de Bloom é utilizado para buscas rápidas e maior eficiência de memória, combinado com a verificação de saldo para evitar falsos positivos. Para gerar o arquivo do filtro, execute o programa como administrador.
 
 ### 🍎 Para macOS
 
